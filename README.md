@@ -1,5 +1,5 @@
 # Coursera IT Automation with Python Capstone Project
-===
+---
 
 This is a repository for storing codes I created to finish the capstone project for Coursera IT Automation with Python specialization. The project consists of some steps as shown below.
 
