@@ -33,7 +33,7 @@ for fname in entries:
 
         # Create POST request using created data_dict
         response = requests.post(
-          'http://34.72.188.153/fruits/',
+          'http://xx.xx.xxx.xxx/fruits/',
           data=data_dict
         )
         print("Returned status code:", response.status_code)
